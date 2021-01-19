@@ -125,19 +125,19 @@ The CSC 211 staff has met as a group and developed the format of the course movi
 
 ### Lectures
 
-Lectures will be asynchronous. Every week at the time and day we would normally meet in person, I will be updating [this](https://piazza.com/class/keu9ra3lv5h4hg?cid=7) Piazza post with a link to a video lecture that covers the material we would have covered if we met in person. Any questions / comments on that lecture should be posted to Piazza ~ which will be continuously monitored by myself and the teaching staff.
+Lectures will be asynchronous. Every week at the time and day we would normally meet in person, I will be updating [this](https://piazza.com/) Piazza post with a link to a video lecture that covers the material we would have covered if we met in person. Any questions / comments on that lecture should be posted to Piazza ~ which will be continuously monitored by myself and the teaching staff.
 
 ### Labs
 
-Labs will by synchronous - so attendance is required. You can access the lab chatrooms [here](https://piazza.com/class/keu9ra3lv5h4hg?cid=8).
+Labs will by synchronous - so attendance is required. You can access the lab chatrooms [here](https://piazza.com/).
 
 ### Office Hours
 
-Office hours will be synchronous, just like the labs. Each TA will update [this](https://piazza.com/class/keu9ra3lv5h4hg?cid=9) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled office hour times.
+Office hours will be synchronous, just like the labs. Each TA will update [this](https://piazza.com/) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled office hour times.
 
 ### Discussion Sessions
 
-Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update [this](https://piazza.com/class/keu9ra3lv5h4hg?cid=10) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
+Discussion sessions will will be synchronous, just like the labs and office hours. The discussion session lead will update [this](https://piazza.com/) resource on Piazza with a link that will be active with a Google Meets chatroom during their regularly scheduled discussion session times.
 
 ### Important Notes
 
