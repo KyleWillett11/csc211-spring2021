@@ -177,6 +177,5 @@ We *will* persevere.
 | Week 11 | Lecture - Binary Search <br> Lecture - Advanced Recursion (Backtracking), Structs <br> Lab - Advanced Recursive Problems <br> | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-08) | 
 | Week 12 | Assignment - Assignment 4 <br>Lecture - Classes, Data Members and Methods (Encapsulation) <br> **Exam - Midterm Exam (weeks 6 to 10)** <br> Lab - Implementing Classes (source/headers), Arrays and Objects <br>  | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-09) | 
 | Week 13 | Lecture - Constructors  <br>Lecture - Dynamic Memory Allocation, Destructors <br> Lab - Developing a string Class (overloaded operators and copy constructors) <br> Reading - Savitch, Chapter 14 <br> | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-10)| 
-| Week 14 | 	Lecture - Class Inheritance <br> Lecture - Singly Linked Lists <br> Lab - STL Containers, read/write from files, and CLAs <br>  Reading - Savitch, Chapter 15 <br> | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-11) |
 | Week 15 | 	**Exam - Final Exam (cumulative with focus on weeks 11 to 15)** | None |
 
