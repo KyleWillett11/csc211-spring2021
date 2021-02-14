@@ -12,11 +12,11 @@ Undergraduate TAs - David Perrone, Nick Goltsos
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Mike <br> Derek <br> Nick |  10a - 11a <br> 11a - 12p <br> 5p - 7:30p|
-|Tuesday |  David <br> Derek <br> Nick | 10a - 12p <br> 11a - 1p <br> 4p - 7p|
-|Thursday   |  David <br> Derek <br> Nick | 10a - 12p <br> 12a - 1p <br> 5:30p - 8:30p|
-|Friday    |   Derek <br> Nick |  11a - 1p <br> 4p - 7p |
-|Sunday    |   Nick |  2p - 4p |
+|Monday |   Mike <br> Derek <br> Nick |  10:00a - 11:00a <br> 11:00a - 12:00p <br> 5:00p - 7:30p|
+|Tuesday |  David <br> Derek <br> Nick | 10:00a - 12:00p <br> 11:00a - 1:00p <br> 4:00p - 7:00p|
+|Thursday   |  David <br> Derek <br> Nick | 10:00a - 12:00p <br> 12:00a - 1:00p <br> 5:30p - 8:30p|
+|Friday    |   Derek <br> Nick |  11:00a - 1:00p <br> 4:00p - 7:00p |
+|Sunday    |   Nick |  2:00p - 4:00p |
 
 **Discussion Session**
 <br> Location: Virtual
@@ -25,8 +25,8 @@ Undergraduate TAs - David Perrone, Nick Goltsos
 
 | Day | Staff Member |  Time |
 | --- | --- | --- | 
-|Thursday |   Derek |   7p - 8p |
-|Friday |   David | 5p - 6p  |
+|Thursday |   Derek |   7:00p - 8:00p |
+|Friday |   David | 5:00p - 6:00p  |
 
 
 **Lab**
