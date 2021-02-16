@@ -12,11 +12,11 @@ Undergraduate TAs - David Perrone, Nick Goltsos
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Nick <br> David |  TBD <br> TBD|
-|Tuesday |  Mike <br> Nick | TBD <br> TBD|
-|Wednesday   |  David  |TBD |
-|Thursday   |  Derek | TBD|
-|Friday    |   Derek <br> Nick |  TBD <br> TBD |
+|Monday |   Mike <br> Derek <br> Nick |  10:00a - 11:00a <br> 11:00a - 12:00p <br> 5:00p - 7:30p|
+|Tuesday |  David <br> Derek <br> Nick | 10:00a - 12:00p <br> 11:00a - 1:00p <br> 4:00p - 7:00p|
+|Thursday   |  David <br> Derek <br> Nick | 10:00a - 12:00p <br> 12:00a - 1:00p <br> 5:30p - 8:30p|
+|Friday    |   Derek <br> Nick |  11:00a - 1:00p <br> 4:00p - 7:00p |
+|Sunday    |   Nick |  2:00p - 4:00p |
 
 **Discussion Session**
 <br> Location: Virtual
@@ -25,8 +25,8 @@ Undergraduate TAs - David Perrone, Nick Goltsos
 
 | Day | Staff Member |  Time |
 | --- | --- | --- | 
-|Monday |   Derek |   TBD |
-|Wednesday |   David | TBD  |
+|Thursday |   Derek |   7:00p - 8:00p |
+|Friday |   David | 5:00p - 6:00p  |
 
 
 **Lab**
@@ -34,9 +34,8 @@ Undergraduate TAs - David Perrone, Nick Goltsos
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Michael, David, Nick |   TBD  |
-|Friday |   Michael, Derek, Nick |   TBD|
-|Friday |   Michael |   TBD|
+|Thursday |   Michael, David, Nick |   3:30p - 5:15p  |
+|Monday |   Michael, David, Nick |   3:00p - 4:45p|
 
 ### Course Overview
 
